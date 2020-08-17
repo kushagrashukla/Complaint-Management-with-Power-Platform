@@ -1,5 +1,10 @@
 # Microsoft-Power-Platform-Demo
-This is the demo I created during my internship at Microsoft. The demo shows how the technologies of Power Platform can be used to automate traditional complaint management processes.
+This is the demo I created during my internship at Microsoft. The demo shows how the technologies of Power Platform can be used to automate traditional complaint management processes. This demo was built using the following Microsoft Licenses - 
+i) Office E3
+ii) Dynamics 365 Customer Engagement 
+iii) Power Platform
+iv) Power Virtual Agent
+
 The following files represent the relevant components of Power Automate, Power App and Power Virtual Agent used to create the demo.
 
 1) File name 'Case' represents the topic created in Power Virtual Agent used to trigger conversations.
